@@ -1,0 +1,13 @@
+fun showValues() {
+  var first = "first";
+  var second = "second";
+
+  fun display() {
+    print second;
+    print first;
+  }
+
+  display();
+}
+
+showValues();
